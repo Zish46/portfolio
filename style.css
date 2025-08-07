@@ -142,7 +142,7 @@ a, ul li{
 }
 
 .section1{
-        background-image: url("/images/bg3.webp");
+        background-image: url("images/bg1.webp");
         width: 100%;
         min-height: 100vh;
         position: relative;
